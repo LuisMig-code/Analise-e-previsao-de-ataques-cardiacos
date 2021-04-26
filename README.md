@@ -10,4 +10,4 @@ Este repositório consiste em um projeto completo em prol da medicina , incluind
 <p><a href="www.linkedin.com/in/luis-miguel-code">Acesse aqui meu linkedIn</a></p>
 
 
-<img src="https://images.pexels.com/photos/5340280/pexels-photo-5340280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
+<img src="https://images.pexels.com/photos/5340270/pexels-photo-5340270.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
