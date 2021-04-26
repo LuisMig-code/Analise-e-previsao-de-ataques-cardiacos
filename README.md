@@ -10,4 +10,4 @@ Este repositório consiste em um projeto completo em prol da medicina , incluind
 <p><a href="www.linkedin.com/in/luis-miguel-code">Acesse aqui meu linkedIn</a></p>
 
 
-<img src="https://images.pexels.com/photos/5340270/pexels-photo-5340270.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+<img src="https://cdn.pixabay.com/photo/2013/07/18/10/59/pulse-trace-163708_960_720.jpg">
